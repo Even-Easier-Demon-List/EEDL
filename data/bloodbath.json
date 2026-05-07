@@ -1,0 +1,67 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot", "More"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "percentToQualify": "60",
+    "fps": "144",
+    "version": "2.1",
+    "records": [
+        {
+            "user": "Quasar",
+            "link": "https://www.youtube.com/watch?v=MlvdGvFCmr8",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "Surv",
+            "link": "https://www.youtube.com/watch?v=CUY5hyjdbQI",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "SoulsTRK",
+            "link": "https://www.youtube.com/watch?v=FgoiKkEGV20",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "Gonchus",
+            "link": "https://www.youtube.com/watch?v=_muRU7avJDc",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "Sebquero11",
+            "link": "https://www.youtube.com/watch?v=YWn0NQKBKlI",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "Quantum",
+            "link": "https://www.youtube.com/watch?v=vDqoMLS_OI0",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "TrusTa",
+            "link": "https://www.youtube.com/watch?v=CfEe3VkjxKA",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "Knobbelboy",
+            "link": "https://www.youtube.com/watch?v=IapCZtxIpxk",
+            "hz": "",
+            "percent": 100
+        },
+        {
+            "user": "wRocket",
+            "link": "https://www.youtube.com/watch?v=ddE14NtKFZE",
+            "hz": "",
+            "percent": 100
+        }
+     ]
+}
