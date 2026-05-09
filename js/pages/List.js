@@ -199,6 +199,7 @@ export default {
 			<p>Levels are ranked according to the AREDL.</p>
 			<p>2-Player levels are not allowed on this list unless if doing it solo is worthy on this list.</p>
 		    <h3>Submission Requirements</h3>
+		<p>Legacy levels ( Levels once in the Top 150 but has fallen off ) will have their submissions closed and anybody who tries will get rejected.</p>
         <p>Achieved the record without using hacks. When using mod menus ( Mega Hack, Eclipse, etc ), the Cheat Indicator must be on. If it is red, the submission will be declined.</p>
 		<p>Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. Unofficial LDMs and other level mods that don't affect difficulty will have to get approved by the mods.</p>
         <p>Have audible click sounds ( no clickbot ) or a visible handcam throughout the entire completion.</p>
