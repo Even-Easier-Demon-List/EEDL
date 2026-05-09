@@ -195,14 +195,15 @@ export default {
             </ol>
           </template>
         <h3>Level Requirements</h3>
-        <p>It's at the bottom of List.js</p>
-		    <p>Put what you want to say inside of HTML paragraph tags.</p>
-		    <p>If you don't know what that is, look it up or learn some html. its pretty simple</p>
+		    <p>Levels on this list must be a rated Extreme Demon and be easier than Bloodbath and harder than the current Top 150 on this list.</p>
         <p>Make sure to replace this with requirements for levels on your list.</p>
 		    <h3>Submission Requirements</h3>
-        <p>This is where you put the rules for submissions</p>
-        <p>Edit this the exact same as the level requirements above.</p>
-        </div>
+        <p>Achieved the record without using hacks. When using mod menus ( Mega Hack, Eclipse, etc ), the Cheat Indicator must be on. If it is red, the submission will be declined.</p>
+		<p>Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. Unofficial LDMs and other level mods that don't affect difficulty will have to get approved by the mods.</p>
+        <p>Have audible click sounds ( no clickbot ) or a visible handcam throughout the entire completion.</p>
+		<p>The endscreen must be fully visible for at least 1 frame in the video.</p>
+		<p>The last few seconds of the previous attempt including the death must be shown in the video.</p>
+		</div>
       </div>
     </main>
   `,
