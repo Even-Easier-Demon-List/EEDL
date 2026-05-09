@@ -204,6 +204,7 @@ export default {
         <p>Have audible click sounds ( no clickbot ) or a visible handcam throughout the entire completion.</p>
 		<p>The endscreen must be fully visible for at least 1 frame in the video.</p>
 		<p>The last few seconds of the previous attempt including the death must be shown in the video.</p>
+		<p>No exploiting loopholes.</p>
 		</div>
       </div>
     </main>
